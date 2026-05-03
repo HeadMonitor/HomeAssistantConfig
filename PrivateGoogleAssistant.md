@@ -1,7 +1,7 @@
 # Private Google Assistant
-<img width="255" height="241" alt="home-assistant-wordmark-color-on-dark" src="https://github.com/user-attachments/assets/f00cfb5a-47b3-409c-99ea-9ee98da67122" />
+<img width="255" alt="home-assistant-wordmark-color-on-dark" src="https://github.com/user-attachments/assets/f00cfb5a-47b3-409c-99ea-9ee98da67122" />
 <br/>
-<img width="255" height="256" alt="image" src="https://github.com/user-attachments/assets/d95e1916-059f-4d63-a001-419e3facd602" />
+<img width="255" alt="image" src="https://github.com/user-attachments/assets/d95e1916-059f-4d63-a001-419e3facd602" />
 <br/>
 <br/>
 
